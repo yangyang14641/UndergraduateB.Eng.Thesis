@@ -1,4 +1,4 @@
-#Instruction
+# Instruction
 ## 1. LidDrivedFlowMain.m (Main fucntion, run this file and adjust computing parameters through this M-file) 
 ## 2. initialfield.m      (Subroutine to initial computing area)
 ## 3. f_eq.m              (Subroutine to compute equlibrium distribution)
